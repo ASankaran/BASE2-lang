@@ -1,0 +1,6 @@
+c:\users\arnav\documents\visual studio 2013\Projects\BASE2-lang\BASE2-lang\bin\Debug\BASE2-lang.exe.config
+c:\users\arnav\documents\visual studio 2013\Projects\BASE2-lang\BASE2-lang\bin\Debug\BASE2-lang.exe
+c:\users\arnav\documents\visual studio 2013\Projects\BASE2-lang\BASE2-lang\bin\Debug\BASE2-lang.pdb
+c:\users\arnav\documents\visual studio 2013\Projects\BASE2-lang\BASE2-lang\obj\Debug\BASE2-lang.csprojResolveAssemblyReference.cache
+c:\users\arnav\documents\visual studio 2013\Projects\BASE2-lang\BASE2-lang\obj\Debug\BASE2-lang.exe
+c:\users\arnav\documents\visual studio 2013\Projects\BASE2-lang\BASE2-lang\obj\Debug\BASE2-lang.pdb
